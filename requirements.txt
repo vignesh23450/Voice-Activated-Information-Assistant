@@ -1,0 +1,4 @@
+pyttsx3
+selenium
+webdriver-manager
+selenium webdriver-manager
