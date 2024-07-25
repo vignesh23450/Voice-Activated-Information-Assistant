@@ -1,5 +1,4 @@
-
-Sure! Here's a detailed README for your Voice-Activated Information Assistant project:
+Voice-Activated Information Assistant project:
 
 Voice-Activated Information Assistant
 This project is a voice-activated personal assistant that leverages text-to-speech (pyttsx3) and speech recognition (SpeechRecognition) libraries, combined with Selenium for web automation. The assistant listens to voice commands, responds with appropriate information, and can fetch details from Wikipedia.
@@ -9,19 +8,6 @@ Voice Interaction: Interact with the assistant using voice commands.
 Text-to-Speech: The assistant responds to your queries with spoken answers.
 Web Automation: Automatically searches and retrieves information from Wikipedia.
 User-Friendly Prompts: Guides the user through the interaction process.
-Installation
-Prerequisites
-Python 3.x
-Google Chrome
-ChromeDriver
-Libraries
-Install the required libraries using pip:
-
-bash
-Copy code
-pip install pyttsx3 SpeechRecognition selenium
-ChromeDriver
-Download the appropriate version of ChromeDriver from here and ensure it is in your system PATH or place it in the same directory as your script.
 
 Code Explanation
 Main Components
